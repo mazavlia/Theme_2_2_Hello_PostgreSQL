@@ -5,9 +5,9 @@
 - связи между таблицами
 - первичные и внешние ключи
 - тип атрибутов сущностей согласно выбранной СУБД.
-![Alt text](Physic_structure_pgAdmin.png)
+![Alt text](Graphic_structure_pgAdmin.png)
 
-![Alt text](Physic_structure_DBeaver.png)
+![Alt text](Graphic_structure_DBeaver.png)
 
 # Задание 2. 
 ## Используя DDL, написать SQL-запрос создания всех таблиц со связями, первичными и внешними ключами.
